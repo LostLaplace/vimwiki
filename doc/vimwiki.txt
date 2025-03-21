@@ -4047,6 +4047,11 @@ master is retained as a legacy mirror of the dev branch.
 
 This is somewhat experimental, and will probably be refined over time.
 
+2025.03.20
+
+New:~
+    * Add a new configuration option allowing the wiki link syntax to be used
+      even when configured for markdown syntax.
 
 2024.01.24~
 
